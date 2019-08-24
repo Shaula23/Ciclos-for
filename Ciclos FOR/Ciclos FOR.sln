@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ciclos FOR", "Ciclos FOR\Ciclos FOR.csproj", "{B28A444C-6F7D-49FD-A607-687B6EA76916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B28A444C-6F7D-49FD-A607-687B6EA76916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B28A444C-6F7D-49FD-A607-687B6EA76916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B28A444C-6F7D-49FD-A607-687B6EA76916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B28A444C-6F7D-49FD-A607-687B6EA76916}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEBFD051-FCE5-494F-B65B-DA183C1DE070}
+	EndGlobalSection
+EndGlobal
